@@ -24,6 +24,6 @@
     "src"
   ],
   "files": [
-    "./src/app.tsx"
+    "./src/index.tsx"
   ]
 }
